@@ -1,12 +1,5 @@
 function highlight() {
     //Write your code here
-	// let para = document.querySelector("p");
-	// para.addEventListener('mouseenter', () => {
-	// 	para.style.backgroundColor = "green";
-	// });
-	// para.addEventListener('mouseleave', () => {
-	//   para.style.backgroundColor = 'black';
-	// });
 
 	const bolds = document.querySelectorAll('strong');
     
